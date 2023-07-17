@@ -1,6 +1,7 @@
 import React from 'react'
 import bgImg from "../assets/van.png"
 import {Link} from "react-router-dom"
+import "../Styles/index.css"
 
 export default  function About ()  {
   return (
